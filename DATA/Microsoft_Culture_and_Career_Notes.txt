@@ -1,0 +1,52 @@
+Microsoft Corporation - Culture, Learning, and Career Notes
+Prepared: July 2026
+
+This TXT file intentionally contains DIFFERENT data from the PDF.
+The PDF focuses on business model, financials, AI strategy, strengths, and risks.
+This TXT focuses on Microsoft culture, mission, values, learning angle, and why it is useful for a tech learner.
+
+1. Company identity
+Microsoft Corporation is a global technology company known for software, cloud services, AI tools, enterprise platforms, developer tools, gaming, operating systems, and productivity products.
+
+2. Mission
+Microsoft's mission is: "to empower every person and every organization on the planet to achieve more."
+This mission is broad, but practical. It connects well with products like Microsoft 365, Azure, GitHub, Teams, Windows, LinkedIn, Dynamics 365, Power Platform, and Copilot.
+
+3. Values
+Microsoft highlights three corporate values:
+- Respect: recognizing that other people's thoughts, feelings, and backgrounds matter.
+- Integrity: being honest, ethical, and trustworthy.
+- Accountability: accepting responsibility for decisions, actions, and results.
+
+4. Culture point I like
+The best part about Microsoft is that it has a "learn-it-all" culture rather than a "know-it-all" culture. For a learner, this matters because technology changes fast. A company that values learning can adapt better to shifts like cloud computing, generative AI, cybersecurity, and automation.
+
+5. Why Microsoft is useful for students and freshers
+Microsoft is a useful company to study if you are learning data science, AI, cloud, software engineering, or business technology because its ecosystem touches many real-world skills:
+- Python and AI workloads can run on Azure.
+- Data engineering and analytics can use Microsoft Fabric, Power BI, Azure Data Factory, Synapse-style workflows, and SQL tools.
+- Developers use GitHub, VS Code, Visual Studio, Azure DevOps, and GitHub Copilot.
+- Business users use Excel, PowerPoint, Word, Outlook, Teams, SharePoint, Power Automate, and Power Apps.
+- Companies use Azure, Microsoft 365, Defender, Entra, Dynamics 365, and Copilot for enterprise workflows.
+
+6. Products to know as a tech learner
+- Azure: cloud platform for deploying apps, databases, AI services, APIs, and enterprise infrastructure.
+- GitHub: platform for code hosting, collaboration, CI/CD, open source, and developer workflows.
+- GitHub Copilot: AI coding assistant used for code suggestions, explanations, tests, and productivity.
+- Microsoft 365 Copilot: AI assistant inside productivity tools and work apps.
+- Power BI: business intelligence and dashboarding tool.
+- Microsoft Fabric: analytics platform for data integration, engineering, warehousing, real-time analytics, and business intelligence.
+- Teams: collaboration and communication platform.
+- Dynamics 365: business applications for sales, service, finance, operations, and customer engagement.
+
+7. Why I personally like Microsoft as a company to analyze
+I like Microsoft because it is practical. It does not only build futuristic technology; it brings technology into everyday work. A student may use Excel or VS Code. A developer may use GitHub. A company may use Azure and Microsoft 365. A data analyst may use Power BI. This wide usage makes Microsoft a good example of how technology becomes useful at scale.
+
+8. Interview-style summary
+If someone asks "Why Microsoft?", a short answer can be:
+"Microsoft is important because it combines cloud, AI, productivity software, developer tools, business applications, and enterprise trust. It has transformed from a traditional software company into a platform company, and its current AI strategy is focused on putting Copilot and cloud intelligence directly into everyday workflows."
+
+9. Sources
+- Microsoft Mission and Values: https://www.microsoft.com/en-us/about
+- Microsoft 2025 Annual Report: https://www.microsoft.com/investor/reports/ar25/index.html
+- Microsoft FY2025 Form 10-K filing: https://microsoft.gcs-web.com/sec-filings/sec-filing/10-k/0000950170-25-100235
