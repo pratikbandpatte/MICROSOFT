@@ -23,5 +23,5 @@ class Vectorizer:
                 embedding=embedding_model,
                 persist_directory=CHROMA_DIR,
             )
-        print("Chroma DB is created")
+            print("Chroma DB is created")
         return vector_db
